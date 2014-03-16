@@ -1,0 +1,6 @@
+name: Your New Site
+description: "Your site description. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa, accusantium mollitia cum aliquid ut fugiat similique magnam eius placeat laboriosam."
+markdown: redcarpet
+pygments: true
+
+permalink: /blog/:title
